@@ -3,7 +3,7 @@
 > A complete VPS pipeline implementing feature-based image localization with geometric verification.  
 > Built as a portfolio piece for the **Niantic Spatial Applied CV Internship** (Summer 2026).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sunnyanand/vps-localization-demo/blob/main/visual_positioning_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sunny925bay-jpg/vps-localization-demo/blob/main/visual_positioning_demo.ipynb)
 
 ---
 
